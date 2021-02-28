@@ -13,21 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: jekyll-theme-potato-hacker
-author: "<your_name>"
-email: "<your@mail>"
-description: A simple Jekyll theme based on potatoes and hackers
-baseurl: "/jekyll-theme-potato-hacker" # the subpath of your site, e.g. /blog
+title: Lost in Linker World
+author: "Anh Tu | Boom"
+email: "anhtu001@e.ntu.edu.sg"
+description: Computer Engineering student trying to navigate life
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # ------------------------------------------------------------------------------
 # Custom settings
 # ------------------------------------------------------------------------------
 # Useful links
-github_username: "<github_username>"
-facebook_username: "<facebook_username>"
-twitter_username: "<twitter_username>"
-linkedin_id: "<linkedin_id>"
+github_username: "<https://github.com/AnhTuDo1998>"
+#facebook_username: ""
+#twitter_username: "<twitter_username>"
+linkedin_id: "<https://www.linkedin.com/in/anh-tu-d-b28590102/>"
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
@@ -40,7 +40,7 @@ theme_switch: on         # Show color switch (on | off)
 blog: on                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/avatar.jpg"
-avatar_description: "My name is Popotato and I'm a HACKER."
+avatar_description: "The name is Boom, Do Boom."
 highlighter_theme: gruvbox  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
