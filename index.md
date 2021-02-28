@@ -44,15 +44,16 @@ A showcase of what I have done in NTU (and also to help the juniors out).
 
 
 ## *MOOCs*
+
+### LiDAR Obstacle Detection
+[Project source code](https://github.com/AnhTuDo1998/Lidar-Obstacle-Detection): Part of coursework for Udacity Sensor Fusion NanoDegree Program.
+
+---
+# Must Reads
+
 ### [MIT CSAIL Missing Semester 2020](missing.csail.mit.edu/)
 
   - Imo, the best hard-skill course in the universe that any CS students must take. A short course with introduction to computing on Unix such as vim editors, git VCS, command line, debugging and profiling, etc...
 
   - [Vietnamese version](https://missing-semester-vn.github.io/) available too!
-
-### [LiDAR Obstacle Detection](https://github.com/AnhTuDo1998/Lidar-Obstacle-Detection)
-  - Part of coursework for Udacity Sensor Fusion NanoDegree Program.
-
----
-# Must Reads
 
