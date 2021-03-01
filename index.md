@@ -51,7 +51,7 @@ A showcase of what I have done in NTU (and also to help the juniors out).
 ---
 # Must Reads
 
-### [MIT CSAIL Missing Semester 2020](missing.csail.mit.edu/)
+### [MIT CSAIL Missing Semester 2020](https://missing.csail.mit.edu/)
 
   - Imo, the best hard-skill course in the universe that any CS students must take. A short course with introduction to computing on Unix such as vim editors, git VCS, command line, debugging and profiling, etc...
 
