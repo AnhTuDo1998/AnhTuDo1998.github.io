@@ -68,3 +68,7 @@ kramdown:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+#Plugins stuffs
+plugins:
+  - jekyll-seo-tag
